@@ -4,6 +4,7 @@
     font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
+
 /* header */
 .header {
     background-color: #454545;
@@ -29,3 +30,38 @@ ul li a {
     text-decoration: none;
 }
 
+/* banner-sec */
+.banner-sec p {
+    font-size: 14px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    padding: 12px 0;
+    color: white;
+    background-color: #1D1D1F;
+
+}
+
+.banner-sec a {
+    color: #0071E3;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 100;
+}
+
+/* second section  */
+.sec-two {
+    display: flex;
+}
+
+/* about section */
+.about{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.about p{
+    margin: 15px 0;
+    color: #6C6C6D;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 12px ;
+    margin: 15px 0;    
+}
