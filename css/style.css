@@ -65,3 +65,60 @@ ul li a {
     font-size: 12px ;
     margin: 15px 0;    
 }
+
+/* links section */
+.links{
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.links ul h5{
+    font-size:15px;
+    margin-top: 14px;
+    color: #434344;
+    
+}
+.links ul li {
+    list-style-type: none;
+    margin: 5px 0;
+}
+.links ul li a{
+    color: #757576;
+    font-weight:500;
+    font-size: 13px;
+} 
+.sec-two  .secImg{
+    padding: 10px 10px;
+    
+}
+
+/* footer */
+.footer{
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.footer .content  ul{
+   display: flex;
+}
+.footer .content  ul li{
+   list-style-type: none;
+   padding: 20px 10px;
+  
+}
+.footer .copyright{
+    color: #6C6C6D;
+}
+.footer .content  ul li a{
+    color:#444445  ;
+}
+.footer .india{
+    color:#444445  ;
+}
